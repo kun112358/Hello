@@ -1,4 +1,5 @@
 hello,GitHub
+你好,GitHub
 let me see how to clone
 now I added an word
 OK
